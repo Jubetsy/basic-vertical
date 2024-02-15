@@ -28,19 +28,20 @@ body {
   background-image:url(assets/cardlogo.png);
   background-size:contain;
   background-repeat: no-repeat;
-  background-origin: ;
-
 }
-
 
 h1{
   margin-bottom: 0px;
-  font-family: 'Bellota Text', sans-serif;
-  font-weight: 600;
+  .cormorant-garamond-semibold {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
   text-align: center;
   font-size: 50px;
   position: relative; top: 40px;
-  color: #000000;
+  color: #000000;*/
 }
 
 h2{
