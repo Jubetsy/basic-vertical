@@ -7,7 +7,7 @@
 
 
 body {
-    background-color: rgb(255, 217, 247);
+    background-color: rgb(247, 170, 209);
     background-repeat: no-repeat;
     overflow: hidden;
 }
@@ -38,7 +38,7 @@ h1{
     font-style: normal;
   }
   text-align: center;
-  font-size: 45px;
+  font-size: 40px;
   position: relative; top: 30px;
   color: #000000;*/
 }
