@@ -25,7 +25,7 @@ body {
   box-shadow: 2px 5px 15px 0px #17161694;
   background-color:rgb(255, 255, 255);
   border-radius: 30px;
-  background-image: url('assets/logoresize.png');
+  background-image:url(assets/cardlogo.png);
   background-size:contain;
   background-repeat: no-repeat;
   background-origin: ;
