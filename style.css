@@ -26,9 +26,12 @@ body {
   background-color:rgb(255, 255, 255);
   border-radius: 30px;
   background-image: url('assets/logoresize.png');
-  background-size:cover;
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-origin: ;
 
 }
+
 
 h1{
   margin-bottom: 0px;
